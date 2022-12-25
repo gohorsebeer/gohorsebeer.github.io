@@ -1,2 +1,2 @@
-# gohorsebeer.github.io
-Website da Go Horse Beer
+#Website da Go Horse Beer
+![Go Horse Beer](gohorselogo.jpg)
